@@ -3,6 +3,7 @@ public with sharing class AccountController {
         String key = '%' + searchKey + '%';
       
            system.debug(key);
+                       system.debug('github');
 
 
     }
